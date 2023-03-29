@@ -102,7 +102,7 @@ public class Exercise {
      *    Answer:un arreyList o anche una linkedLIst(che sarebbe più precisa, forse), così con l indice, possiamo andare a vedere chi è arrivato per primo, e via dicendo
      *
      *    6 - You want to store the cities in a particular state, along with their populations.
-     *    Answer: un hashMap cosi puoi aggiungere il valore della popolazione, forse anche un hashSet
+     *    Answer: un hashMap cosi puoi aggiungere il valore della popolazione, forse anche un hashSet perchè le città sono uniche
      *
      *    7 - You want to store the books in a library, along with their authors and publication dates.
      *    Answer:un hashMap, cosi li puoi dare string  e puoi creare un oggetto chiamato libro, e puoi mettere tutto le specifiche che vuoi  nell oggetto libro
